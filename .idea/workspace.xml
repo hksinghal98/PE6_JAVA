@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd9edf29-f368-4b8d-9bf4-14999ef896ef" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QyJiJBKVcsmrwSquEFA4dIqQDx" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TransformStringLambdaStreamDemoTest.TransformStringLambdaStreamDemo_String_AssertNull">
+    <configuration name="FilterStringLambdaStreamDemoTest.FilterStringLambdaStreamDemo_FilteredList_AssertEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.FilterStringLambdaStreamDemoTest" />
+      <option name="METHOD_NAME" value="FilterStringLambdaStreamDemo_FilteredList_AssertEquals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilterStringLambdaStreamDemoTest.FilterStringLambdaStreamDemo_FilteredList_AssertNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.FilterStringLambdaStreamDemoTest" />
+      <option name="METHOD_NAME" value="FilterStringLambdaStreamDemo_FilteredList_AssertNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListAverageTest.ListAverage_findAverage_AssertEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.ListAverageTest" />
+      <option name="METHOD_NAME" value="ListAverage_findAverage_AssertEquals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransformStringLambdaStreamDemoTest.TransformStringLambdaStreamDemo_String_AsserEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.TransformStringLambdaStreamDemoTest" />
+      <option name="METHOD_NAME" value="TransformStringLambdaStreamDemo_String_AsserEquals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransformStringLambdaStreamDemoTest.TransformStringLambdaStreamDemo_String_AssertNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.TransformStringLambdaStreamDemoTest" />
+      <option name="METHOD_NAME" value="TransformStringLambdaStreamDemo_String_AssertNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TransformStringLambdaStreamDemoTest.TransformStringLambdaStreamDemo_String_AssertNull" />
+        <item itemvalue="JUnit.TransformStringLambdaStreamDemoTest.TransformStringLambdaStreamDemo_String_AsserEquals" />
+        <item itemvalue="JUnit.FilterStringLambdaStreamDemoTest.FilterStringLambdaStreamDemo_FilteredList_AssertEquals" />
+        <item itemvalue="JUnit.FilterStringLambdaStreamDemoTest.FilterStringLambdaStreamDemo_FilteredList_AssertNull" />
+        <item itemvalue="JUnit.ListAverageTest.ListAverage_findAverage_AssertEquals" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd9edf29-f368-4b8d-9bf4-14999ef896ef" name="Default Changelist" comment="" />
+      <created>1568737027183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568737027183</updated>
+    </task>
+    <servers />
+  </component>
+</project>
